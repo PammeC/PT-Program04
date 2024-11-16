@@ -2,7 +2,7 @@
 
 # Go Hello World Web Server
 
-A simple web server built with Go that displays a "Hello World" message. This project demonstrates how to build a basic web server with Go and how to containerize it with Docker.
+A simple web server built with Go that displays a "Hello World" message. This project demonstrates how to build a basic web server with Go.
 
 ## 🛠️ Technologies used
 
